@@ -1,0 +1,32 @@
+{
+  "tarefa": [
+    {
+      "tarefa": "json-server",
+      "id": 1
+    },
+    {
+      "tarefa": "cadastrar o curso Spring Boot",
+      "id": 2
+    },
+    {
+      "tarefa": "criar uma aplicação no angular",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "tarefa": "javascript"
+    },
+    {
+      "id": 5,
+      "tarefa": "html+css"
+    },
+    {
+      "tarefa": "criar uma aplicação no angular",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "tarefa": "ggg]"
+    }
+  ]
+}
